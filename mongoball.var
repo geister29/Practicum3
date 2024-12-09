@@ -1,3 +1,4 @@
-#MONGODB_HOST=mongomini.retro.io:27017
-MONGODB_HOST=cluster1-shard-00-00.negae.gcp.mongodb.net:27017
-MONGOBALL_DB=mongoball
+//#MONGODB_HOST=mongomini.retro.io:27017
+//MONGODB_HOST=cluster0.v5lyd.mongodb.net
+//MONGOBALL_DB=mongoball
+mongodb+srv://geister29:<db_password>@cluster0.v5lyd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
